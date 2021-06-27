@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  marcoschart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-26T23:53:32.9731372-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 6e206c0b4d3cc539ff14e8532d7d2142cea09c07c32358670eec6de628f21457
+    name: marcoschart
+    type: application
+    urls:
+    - chartstest/marcoschart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-26T23:53:32.9725049-05:00"
